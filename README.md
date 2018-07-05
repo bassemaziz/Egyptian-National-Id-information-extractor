@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Egyptian National Id information extractor
+>Extract information from egyptian national id like date of birth , place of birth , gander and much more
 
-You can use the [editor on GitHub](https://github.com/bassemaziz/Egyptian-National-Id-information-extractor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](header.png)
 
 ### Markdown
 
