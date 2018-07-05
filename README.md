@@ -3,7 +3,7 @@
 
 ![](output.png)
 
-Can be used in government organizations and special organization who use egyptian national id
+Can be used in government organizations and special organizations who use egyptian national id
 
 ### Requirements
 
