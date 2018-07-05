@@ -1,7 +1,7 @@
 ## Egyptian National Id information extractor
 >Extract information from egyptian national id like date of birth , place of birth , gander and much more
 
-![](output.png)
+![](output0.png)
 
 Can be used in government organizations and special organizations who use egyptian national id
 
