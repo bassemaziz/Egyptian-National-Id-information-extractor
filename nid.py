@@ -129,9 +129,9 @@ def getGovName(id):
     return govCods[id[7:9]],id[7:9]
 
 def getGender(id):
-    """"
+    """
     return gender as string (femail/mail)
-    """"
+    """
     if int(id[12:13])%2==0:
         return "femail"
     else:
