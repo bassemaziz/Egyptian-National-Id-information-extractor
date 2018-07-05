@@ -1,40 +1,23 @@
 ## Egyptian National Id information extractor
 >Extract information from egyptian national id like date of birth , place of birth , gander and much more
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
-![](header.png)
+![](output.png)
 
-### Markdown
+Can be used in government organizations and special organization who use egyptian national id
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Requirements
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Python 3.5
+2. dateutil
+```sh
+pip install python-dateutil
+```
+3. Setting UTF-8 to ON via Command Line
+```sh
+REM change CHCP to UTF-8
+```
+```sh
+CHCP 65001
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bassemaziz/Egyptian-National-Id-information-extractor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
